@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "origin",
+    "wandoo"
+  ],
+  "parent": {
+    "dev": null,
+    "origin": "dev",
+    "wandoo": "dev"
+  },
+  "order": [
+    "dev",
+    "origin",
+    "wandoo"
+  ]
+}
